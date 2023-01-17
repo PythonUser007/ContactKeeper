@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #439A97;
+    padding: 30px;
+}
+
+
+h1{
+   font-size: 3rem;
+}
+
+#title_img{
+    width: 80%;
+}
+
+#main_container{
+    padding-top: 40px;
+}
+
+.get_button{
+    padding-top: 50px;
+}
+
+.points{
+ text-align: left;
+}
+
+.search_error{
+ text-align: center;
+ color: red;
+}
+
+.footer_tag{
+    font-size: 0.8rem;
+    padding-top: 10%;
+}
